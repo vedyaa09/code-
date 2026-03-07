@@ -24,12 +24,13 @@ long long result = factorial(num);
 
 
 if (result ==-1) {
-	printf("factorial is not define for nagative number.\n");
+	printf("factorial is not define for negative number.\n");
 } else {
 printf ("factorial of %d is %11d\n",num, result);
 }
 return 0; 
 }
+
 
 
 
